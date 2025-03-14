@@ -28,6 +28,7 @@ export default function RootLayout({
         }}
         >
           <p>Footer</p>
+          
         </footer>
         </body>
     </html>
